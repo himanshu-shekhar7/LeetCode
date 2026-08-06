@@ -12,9 +12,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
