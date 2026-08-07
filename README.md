@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0260-single-number-iii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0260-single-number-iii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
