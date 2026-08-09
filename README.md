@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Union-Find
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0242-valid-anagram) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
