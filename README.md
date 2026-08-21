@@ -89,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Tree
+|  |
+| ------- |
+| [1145-binary-tree-coloring-game](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1145-binary-tree-coloring-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1145-binary-tree-coloring-game](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1145-binary-tree-coloring-game) |
+## Binary Tree
+|  |
+| ------- |
+| [1145-binary-tree-coloring-game](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1145-binary-tree-coloring-game) |
 <!---LeetCode Topics End-->
