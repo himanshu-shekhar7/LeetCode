@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0202-happy-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0202-happy-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1145-binary-tree-coloring-game](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1145-binary-tree-coloring-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
