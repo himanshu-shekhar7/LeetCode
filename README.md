@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0242-valid-anagram) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3365-rearrange-k-substrings-to-form-target-string](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
