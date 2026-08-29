@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2439-minimize-maximum-of-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 ## Sorting
