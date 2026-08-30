@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2439-minimize-maximum-of-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2439-minimize-maximum-of-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
