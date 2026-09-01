@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
