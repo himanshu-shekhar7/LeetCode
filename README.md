@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0326-power-of-three) |
 | [1154-day-of-the-year](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1154-day-of-the-year) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
