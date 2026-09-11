@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0326-power-of-three) |
 | [2487-remove-nodes-from-linked-list](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
