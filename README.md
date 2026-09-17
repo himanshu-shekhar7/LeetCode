@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2439-minimize-maximum-of-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 ## Ternary Search
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
