@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0202-happy-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -193,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0100-same-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
