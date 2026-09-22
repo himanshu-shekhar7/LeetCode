@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/himanshu-shekhar7/LeetCode/tree/master/0326-power-of-three) |
 | [2487-remove-nodes-from-linked-list](https://github.com/himanshu-shekhar7/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/himanshu-shekhar7/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
